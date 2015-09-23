@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="light_blue">#0099CC</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+
+    //Theme Colours
+    <color name="aqua">#00DFFC</color>
+    <color name="sky_blue">#00B4CC</color>
+    <color name="sea_blue">#008C9E</color>
+    <color name="blue_green">#3B8686</color>
+    <color name="dark_blue">#005F6B</color>
+    <color name="dark_grey">#343838</color>
+    <color name="grey">#BBBBBB</color>
+
+
+
+</resources>
